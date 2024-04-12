@@ -18,11 +18,11 @@ The dataset is obtained from Kaggle. <br />
 • Type (Classifies typologies) <br />
 
 #### Exploratory Data Analysis
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Laundering_type.png" width="650" height="280"> <br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Laundering_type.png" width="650" height="380"> <br /> 
 <br />
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Payment_type.png" width="650" height="280"> <br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Payment_type.png" width="400" height="400"> <br /> 
 <br /> 
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Correlation_matrix.png" width="280" height="280"> <br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Correlation_matrix.png" width="400" height="400"> <br /> 
 <br /> 
 
 #### Models Evaluation
