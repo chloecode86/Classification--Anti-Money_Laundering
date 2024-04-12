@@ -2,9 +2,11 @@
 >### AML Prediction <br />
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/AML_image.jpeg" width="600" height="280"> <br /> 
 <br /> 
+
 #### Business Objective
 To detect money laundering based on various features.
 <br /> 
+
 #### Data Collection
 The dataset is obtained from Kaggle. <br /> 
 <br />
@@ -24,7 +26,6 @@ The dataset is obtained from Kaggle. <br />
 <br /> 
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Correlation_matrix.png" width="600" height="530"> <br /> 
 <br /> 
-
 #### Models Evaluation
 1. Naive Bayes <br />
    - Recall : 0.47 <br />
@@ -34,7 +35,6 @@ The dataset is obtained from Kaggle. <br />
    - Recall : 0.96 <br />
 4. SVC <br />
    - Recall : 0.97 <br />
- <br />
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Confusion_matrix_SVC.png" width="300" height="250"> <br /> 
 <br /> 
 Since the cost of not detecting true money laundering cases (false negatives) is high, Recall (also known as Sensitivity or True Positive Rate) is the most important metric for evaluation. SVC model has given the best result.
