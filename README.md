@@ -35,7 +35,7 @@ The dataset is obtained from Kaggle. <br />
 4. SVC <br />
    - Recall : 0.97 <br />
  <br />
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Confusion_matrix_SVC.png" width="400" height="300"> <br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Confusion_matrix_SVC.png" width="300" height="250"> <br /> 
 <br /> 
 
 Since the cost of not detecting true money laundering cases (false negatives) is high, Recall (also known as Sensitivity or True Positive Rate) is the most important metric for evaluation. SVC model has given the best result.
