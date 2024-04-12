@@ -20,7 +20,7 @@ The dataset is obtained from Kaggle. <br />
 #### Exploratory Data Analysis
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Laundering_type.png" width="650" height="380"> <br /> 
 <br />
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Payment_type.png" width="400" height="350"> <br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Payment_type.png" width="400" height="300"> <br /> 
 <br /> 
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Correlation_matrix.png" width="600" height="530"> <br /> 
 <br /> 
