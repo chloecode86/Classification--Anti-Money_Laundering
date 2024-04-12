@@ -16,7 +16,7 @@ The dataset is obtained from Kaggle. <br />
 • Payment and Receiver Currency <br />
 • 'Is Suspicious' Feature (Binary indicator) <br />
 • Type (Classifies typologies) <br />
-
+<br />
 #### Exploratory Data Analysis
 <img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Laundering_type.png" width="650" height="380"> <br /> 
 <br />
@@ -35,5 +35,7 @@ The dataset is obtained from Kaggle. <br />
 4. SVC <br />
    - Recall : 0.97 <br />
  <br />
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Confusion_matrix_SVC.png" width="400" height="300"> <br /> 
+<br /> 
 
 Since the cost of not detecting true money laundering cases (false negatives) is high, Recall (also known as Sensitivity or True Positive Rate) is the most important metric for evaluation. SVC model has given the best result.
