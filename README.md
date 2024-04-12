@@ -17,6 +17,14 @@ The dataset is obtained from Kaggle. <br />
 • 'Is Suspicious' Feature (Binary indicator) <br />
 • Type (Classifies typologies) <br />
 
+#### Exploratory Data Analysis
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Laundering_type.png" width="650" height="280"> <br /> 
+<br />
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Payment_type.png" width="650" height="280"> <br /> 
+<br /> 
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/Correlation_matrix.png" width="280" height="280"> <br /> 
+<br /> 
+
 #### Models Evaluation
 1. Naive Bayes <br />
    - Recall : 0.47 <br />
