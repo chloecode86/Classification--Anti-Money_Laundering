@@ -1,5 +1,6 @@
 # Classification Project
 >### AML Prediction <br />
+<img src="https://github.com/chloecode86/Classification-AML/blob/main/graphs/AML_image.jpeg" width="600" height="280"> <br /> 
 
 #### Business Objective
 To detect money laundering based on various features.
