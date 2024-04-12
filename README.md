@@ -7,14 +7,14 @@ To detect money laundering based on various features.
 #### Data Collection
 The dataset is obtained from Kaggle. <br /> 
 <br />
-• Time and Date
-• Sender and Receiver Account Details
-• Amount
-• Payment Type (eg. credit card, debit card, cash, ACH transfers, cross-border, and cheque)
-• Sender and Receiver Bank Location
-• Payment and Receiver Currency
-• 'Is Suspicious' Feature (Binary indicator)
-• Type (Classifies typologies)
+• Time and Date <br />
+• Sender and Receiver Account Details <br />
+• Amount <br />
+• Payment Type (eg. credit card, debit card, cash, ACH transfers, cross-border, and cheque) <br />
+• Sender and Receiver Bank Location <br />
+• Payment and Receiver Currency <br />
+• 'Is Suspicious' Feature (Binary indicator) <br />
+• Type (Classifies typologies) <br />
 
 #### Models Evaluation
 1. Naive Bayes <br />
